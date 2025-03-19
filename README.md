@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ### Step2: Train the Target Model and Auto Encoder by Running `train_main.py`
 
-Run the following command to train the prediction model (to be explained) and the Variational Autoencoder (VAE):
+Run the following command to train the prediction model (to be explained) and the Conditional Variational Autoencoder (CVAE):
 
 ```bash
 python train_main.py
